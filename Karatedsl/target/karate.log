@@ -1,0 +1,22 @@
+10:41:06.151 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class example.demo.Test
+10:41:06.655 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /home/admin/eclipse-workspace/Karatedsl/target/test-classes/example/demo/test.feature
+10:41:14.176 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:41:16.448 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1009
+10:43:10.461 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class example.demo.Test
+10:43:11.063 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /home/admin/eclipse-workspace/Karatedsl/target/test-classes/example/demo/test.feature
+10:43:14.106 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:43:15.484 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 992
+10:50:17.612 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class example.demo.test
+10:50:18.079 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /home/admin/eclipse-workspace/Karatedsl/target/test-classes/example/demo/test.feature
+10:50:19.969 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:50:21.058 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 763
+10:55:22.266 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class example.demo.test
+10:55:22.568 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /home/admin/eclipse-workspace/Karatedsl/target/test-classes/example/demo/test.feature
+10:55:25.145 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+10:55:26.325 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 765
+11:04:20.836 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class example.demo.test
+11:04:21.262 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /home/admin/eclipse-workspace/Karatedsl/target/test-classes/example/demo/test.feature
+11:04:23.570 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:04:25.087 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 806
+11:04:25.765 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+11:04:26.615 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 601
